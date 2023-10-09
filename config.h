@@ -1,7 +1,7 @@
 /************************ Adafruit IO Config *******************************/
 
-#define IO_USERNAME  "partyBot_Inc"
-#define IO_KEY       "aio_qesc82aQSK8aWx6T7Au5Fce3XVbt"
+#define IO_USERNAME  "<insert username>"
+#define IO_KEY       "<insert IO key>"
 
 /******************************* WIFI **************************************/
 
